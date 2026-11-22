@@ -32,7 +32,7 @@ export default function About() {
             shape a career in whatever field I choose to pursue in the future.
           </p>
           <p>
-            At present i am focused on exploring learning and attining skills in what my course offers me discovering differnent career paths that i might want to pursue in the future. furthermore devling into the possibilitties of building a caeer in the field of programming and technology. I am also open to exploring other fields that may interest me in the future.
+            At present i am focused on exploring learning and attaining skills in what my course offers me discovering differnent career paths that i might want to pursue in the future. furthermore devling into the possibilitties of building a caeer in the field of programming and technology. I am also open to exploring other fields that may interest me in the future.
           </p>
         </CardContent>
       </Card>

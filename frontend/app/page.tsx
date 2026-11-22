@@ -25,7 +25,7 @@ export default function About() {
         </CardHeader>
         <CardContent className="space-y-3 text-sm sm:text-base leading-relaxed text-muted-foreground">
           <p>
-            I am currently a 2nd-year Computer Science student at Naga CollegeFoundation, where I am actively pursuing various fields of technology and programming to atain skills and knowledge that will shape a career in whatever field i choose to pursue in the future. 
+            I am currently a 2nd-year Computer Science student at Naga CollegeFoundation, where I am actively pursuing various fields of technology and programming to attain skills and knowledge that will shape a career in whatever field i choose to pursue in the future. 
           </p>
           <p>
           </p>
